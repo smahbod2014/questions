@@ -1,0 +1,14 @@
+user_id,page_visited,time_spent
+John,wallets,55
+John,orders,66
+Alex,wallets,77
+Alex,orders,88
+John,help,99
+John,tax,100
+Alex,help,111
+Alex,tax,121
+Mark,profile,131
+Bob,orders,141
+Mark,settings,151
+Bob,wallets,161
+Mark,promotions,171
